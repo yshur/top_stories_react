@@ -1,0 +1,167 @@
+[
+    {
+        "_id": "5b0451eefb6fc06ed0745cb7",
+        "id": 1,
+        "bookname": "A Game of Thrones (A Song of Ice and Fire, Book 1)",
+        "Author": "George R. R. Martin",
+        "Publisher": "Bantam; Media Tie In, Reprint edition",
+        "PublisherData": "March 22, 2011",
+        "Language": "English",
+        "prices": [
+            {
+                "type": "Kindle",
+                "price": 5.93
+            },
+            {
+                "types": "hardcover",
+                "price": 21.16
+            },
+            {
+                "types": "peperback",
+                "price": 12.98
+            },
+            {
+                "types": "Audible",
+                "price": 16.64
+            },
+            {
+                "types": "Mass market paperback",
+                "price": 9.99
+            }
+        ],
+        "description": "From a master of contemporary fantasy comes the first novel of a landmark series unlike any you’ve ever read before. With A Game of Thrones, George R. R. Martin has launched a genuine masterpiece, bringing together the best the genre has to offer. Mystery, intrigue, romance, and adventure fill the pages of this magnificent saga, the first volume in an epic series sure to delight fantasy fans everywhere.",
+        "stars": 4.7
+    },
+    {
+        "_id": "5b045201fb6fc06ed0745cc8",
+        "id": 2,
+        "bookname": "The Hunger Games (Book 1)",
+        "Author": "Suzanne Collins",
+        "Publisher": "Paperback",
+        "PublisherData": "July 3, 2010",
+        "Language": "English",
+        "prices": [
+            {
+                "type": "Kindle",
+                "price": 6.1
+            },
+            {
+                "types": "hardcover",
+                "price": 8.99
+            },
+            {
+                "types": "peperback",
+                "price": 7.55
+            },
+            {
+                "types": "Audible",
+                "price": 0
+            },
+            {
+                "types": "Mass market paperback",
+                "price": 8.12
+            }
+        ],
+        "description": "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. Long ago the districts waged war on the Capitol and were defeated. As part of the surrender terms, each district agreed to send one boy and one girl to appear in an annual televised event called, The Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games. The terrain, rules, and level of audience participation may change but one thing is constant: kill or be killed",
+        "stars": 4.6
+    },
+    {
+        "_id": "5b0484b9fb6fc05730bc7886",
+        "id": 3,
+        "bookname": "Fifty Shades of Grey: Book One of the Fifty Shades Trilogy (Fifty Shades of Grey Series)",
+        "Author": "E L James",
+        "Publisher": "Paperback",
+        "PublisherData": "April 3, 2012",
+        "Language": "English",
+        "prices": [
+            {
+                "type": "Kindle",
+                "price": 1.99
+            },
+            {
+                "types": "hardcover",
+                "price": 25.01
+            },
+            {
+                "types": "peperback",
+                "price": 8.29
+            },
+            {
+                "types": "Audible",
+                "price": 0
+            },
+            {
+                "types": "Mass market paperback",
+                "price": 17.39
+            }
+        ],
+        "description": "When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Anas quiet beauty, wit, and independent spirit, Grey admits he wants her, too—but on his own terms.",
+        "stars": 4.2
+    },
+    {
+        "_id": "5b048578fb6fc05730bc78e1",
+        "id": 4,
+        "bookname": "Divergent (Divergent Series)",
+        "Author": "Veronica Roth",
+        "Publisher": "Paperback",
+        "PublisherData": "September 30, 2014",
+        "Language": "English",
+        "prices": [
+            {
+                "type": "Kindle",
+                "price": 7.99
+            },
+            {
+                "types": "hardcover",
+                "price": 11.98
+            },
+            {
+                "types": "peperback",
+                "price": 9.43
+            },
+            {
+                "types": "Audible",
+                "price": 14.67
+            },
+            {
+                "types": "Mass market paperback",
+                "price": 20.53
+            }
+        ],
+        "description": "Perfect for fans of the Hunger Games and Maze Runner series, Divergent and its sequels, Insurgent and Allegiant, are the gripping story of a dystopian world transformed by courage, self-sacrifice, and love. Fans of the Divergent movie will find the book packed with just as much emotional depth and exhilarating action as the film, all told in beautiful, rich language.",
+        "stars": 4.5
+    },
+    {
+        "_id": "5b048654fb6fc05730bc794e",
+        "id": 5,
+        "bookname": "Harry Potter and the Deathly Hallows (Book 7)",
+        "Author": "J. K. Rowling",
+        "Publisher": "Paperback",
+        "PublisherData": "July 7, 2009",
+        "Language": "English",
+        "prices": [
+            {
+                "type": "Kindle",
+                "price": 8.99
+            },
+            {
+                "types": "hardcover",
+                "price": 21.38
+            },
+            {
+                "types": "peperback",
+                "price": 11.97
+            },
+            {
+                "types": "Audible",
+                "price": 39.37
+            },
+            {
+                "types": "Mass market paperback",
+                "price": 69.99
+            }
+        ],
+        "description": "The heart of Book 7 is a hero's mission--not just in Harry's quest for the Horcruxes, but in his journey from boy to man--and Harry faces more danger than that found in all six books combined, from the direct threat of the Death Eaters and you-know-who, to the subtle perils of losing faith in himself. Attentive readers would do well to remember Dumbledore's warning about making the choice between what is right and what is easy, and know that Rowling applies the same difficult principle to the conclusion of her series. While fans will find the answers to hotly speculated questions about Dumbledore, Snape, and you-know-who, it is a testament to Rowling's skill as a storyteller that even the most astute and careful reader will be taken by surprise.",
+        "stars": 4.7
+    }
+]
