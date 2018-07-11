@@ -9,7 +9,7 @@ const ReactRouter =()=> {
 	return (
 		<React.Fragment>
 			<Header />
-			<Route path="/"  component= {TopBooksList} />
+			<Route exact path="/" component= {TopBooksList} />
 			<Route exact path="/BestPrice" component = {BestPrice} />
 			<Route exact path="/TopId" component= {TopId} />
 		</React.Fragment>	
